@@ -1,0 +1,14 @@
+# Booking app
+
+This is a sample project to simulate a booking system.
+It's uses the basic concepts of Go like function, structs, packages and go rutines.
+
+## Languages
+Go 1.17.5
+
+## Author
+Rafael Chavez Solis
+rcsolis@me.com
+
+## Licencse
+MIT
